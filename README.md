@@ -4,7 +4,7 @@
 
 ## Como instalar 
 ```
-Git Clone https:/github.com/Dragonit3/The-New-Plane.git
+Git Clone https:/github.com/Dragonit3/The-New-Plane.git////
 ```
 
 
