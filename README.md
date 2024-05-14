@@ -7,8 +7,10 @@
 ```Git Clone https://github.com/Dragonit3/The-New-Plane.git ```
 
 Linux
-**Para instalar Rust no linux é preciso utilizar esse comando:** ```
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh ```
+**Para instalar Rust no linux é preciso utilizar esse comando:** 
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 
 
 #Windows
