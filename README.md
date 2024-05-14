@@ -1,2 +1,2 @@
 # The-New-Plane
-Uma Ferramenta de DDoS em Rust (Versão de testes)
+Uma Ferramenta de DoS em Rust (Versão de testes)
