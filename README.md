@@ -34,14 +34,8 @@ cargo run
 ```
 
 <br/> 
-<br/> 
 
 ## Modo de uso
-Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane
-cargo run
-
-<br/> 
-<br/> 
 
 Como utilizar
 **A ferramenta pedirá para você escolher uma opção:**
