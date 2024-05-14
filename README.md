@@ -8,6 +8,9 @@
 Git Clone https:/github.com/Dragonit3/The-New-Plane.git
 ```
 
+
+
+
 ## Linux
 **Para instalar Rust no linux é preciso utilizar esse comando:** 
 ```
@@ -19,10 +22,14 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 **Para instalar Rust no windows você desse link:** (É necessário ter os pré-requisitos do Visual Studio) https://rustup.rs/ 
 
 
-## Modo de iniciar
-Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane
-cargo run
 
+
+
+## Modo de iniciar
+Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane (Ele irá compactar e executar)
+```
+cargo run
+```
 
 ## Modo de uso
 Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane
@@ -37,6 +44,8 @@ Como utilizar
 **Escolhida a opção, você poderá inserir um IP junto com a porta, dessa forma:**
 
 ![image](https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a)
+
+
 
 ![GIF - The New Plane](https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d)
 
