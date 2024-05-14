@@ -72,7 +72,3 @@ async fn inundando_http(ip:String) -> Result<(), io::Error>{
     transmissao.write_all(requisicao.as_bytes()).await?;
     Ok(())
 }
-
-// Cloudfront
-// Alguma forma de procurar campos para inserir dados, dessa forma, estorar com requisições POST
-// 
