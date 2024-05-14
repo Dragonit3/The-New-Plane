@@ -6,10 +6,11 @@
 ```
 Git Clone https:/github.com/Dragonit3/The-New-Plane.git
 ```
-\
-\
-\
-\
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+
 
 ## Linux
 **Para instalar Rust no linux é preciso utilizar esse comando:** 
