@@ -49,6 +49,6 @@ Como utilizar
 
 ![GIF - The New Plane](https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d)
 
-```Referências```
+## Referências
 https://github.com/snakextdev/simple-ddos-tool 
 
