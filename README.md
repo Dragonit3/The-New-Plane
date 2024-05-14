@@ -5,7 +5,7 @@
 
 
 ```Git Clone https://github.com/Dragonit3/The-New-Plane.git ```
-
+```
 Linux
 **Para instalar Rust no linux é preciso utilizar esse comando:**
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -17,10 +17,10 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 #Modo de iniciar
 Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane
-```cargo run```
+cargo run
 
 
-Modo de uso
+Modo de uso```
 
 
 
