@@ -38,7 +38,6 @@ Como utilizar
 ![image](https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a)
 
 
-!gif
 
 ```Referências```
 https://github.com/snakextdev/simple-ddos-tool 
