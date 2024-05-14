@@ -35,9 +35,10 @@ Como utilizar
 ![image](https://github.com/Dragonit3/The-New-Plane/assets/123481273/9a9d8576-2dee-409e-8e00-cf7beab96b3a)
 
 **Escolhida a opção, você poderá inserir um IP junto com a porta, dessa forma:**
+
 ![image](https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a)
 
-
+![GIF - The New Plane](https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d)
 
 ```Referências```
 https://github.com/snakextdev/simple-ddos-tool 
