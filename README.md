@@ -25,6 +25,19 @@ cargo run
 
 
 ## Modo de uso
+Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane
+cargo run
 
 
+Como utilizar
+A ferramenta pedirá para você escolher uma opção
+!img
+
+Escolhida a opção, você poderá inserir um IP junto com a porta, dessa forma: IP:Porta
+!img
+
+!gif
+
+Referências
+https://github.com/snakextdev/simple-ddos-tool 
 
