@@ -26,7 +26,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <br/> 
 
 ## Como executar ▶️
-Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane (Ele irá compactar e executar)
+Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane (Ele irá compilar e executar)
 ```
 cargo run
 ```
