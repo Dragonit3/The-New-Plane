@@ -5,7 +5,7 @@
 </div>
 
 
-## Como instalar 
+## Como instalar 💻
 ```
 Git Clone https:/github.com/Dragonit3/The-New-Plane.git
 ```
@@ -25,14 +25,14 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 <br/> 
 
-## Modo de iniciar
+## Modo de iniciar ▶️
 Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane (Ele irá compactar e executar)
 ```
 cargo run
 ```
 <br/> 
 
-## Modo de uso
+## Modo de uso  🔧
 **A ferramenta pedirá para você escolher uma opção:**
 
 <div align="center">
