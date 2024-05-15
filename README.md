@@ -4,7 +4,6 @@
 **<p align = "center"> OBS: Não utilize essa ferramenta para fins maliciosos, Criamos apenas para uso educacional. </p>**
 
 <br/>
-<br/>
 
 ## Foto da ferramenta 📸
 <div align="center">
