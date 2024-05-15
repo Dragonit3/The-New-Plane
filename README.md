@@ -32,7 +32,7 @@ cargo run
 ```
 <br/> 
 
-## Como usar  🔧
+## Como utilizar  🔧
 **A ferramenta pedirá para você escolher uma opção:**
 
 <div align="center">
