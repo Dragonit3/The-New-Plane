@@ -49,7 +49,9 @@ Como utilizar
 
 **Escolhida a opção, você poderá inserir um IP junto com a porta, dessa forma:**
 
-![image](https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a)
+<div align="center">
+<img src="https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a" width="300px" />
+</div>
 
 <br/> 
 <br/> 
