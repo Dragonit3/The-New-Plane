@@ -6,8 +6,9 @@
 
 
 ##  👇 Como instalar 👇
+**OBS: Caso o repositório esteja privado, instale como arquivo ZIP**
 ```
-Git Clone https:/github.com/Dragonit3/The-New-Plane.git
+git clone https:/github.com/Dragonit3/The-New-Plane.git
 ```
 
 <br/>  
