@@ -28,7 +28,7 @@ async fn main() -> Result<(), io::Error> {
     
     println!("{}",logo.red());
 
-    print!("1 - Inundar com requisições\nEscolha uma opção: ");
+    print!("1 - Inundar com requisições GET\nEscolha uma opção: ");
     io::stdout().flush().unwrap();
 
     io::stdin().read_line(&mut opc).unwrap();
