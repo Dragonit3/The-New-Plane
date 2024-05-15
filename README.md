@@ -21,7 +21,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <br/>
 
 ## Windows 💻
-**Para instalar Rust no windows você desse link:** (É necessário ter os pré-requisitos do Visual Studio) https://rustup.rs/ 
+**Para instalar Rust no windows você desse link** (É necessário ter os pré-requisitos do Visual Studio): https://rustup.rs/ 
 
 <br/> 
 
