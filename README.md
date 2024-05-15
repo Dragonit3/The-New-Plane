@@ -34,7 +34,7 @@ cargo run
 
 ## Modo de uso
 
-Como utilizar
+**Como utilizar**
 **A ferramenta pedirá para você escolher uma opção:**
 
 <div align="center">
