@@ -1,7 +1,7 @@
-# The New Plane ✈️ (DoS Attack)
-The New Plane foi criado com o foco de fazer múltiplos testes de ataques DDoS em sites, de diversas formas. Programado em rust, uma linguagem mais rápida devido a sua ótima forma de gerenciar a memória de forma eficiente, e por se tratar de uma linguagem compilada, funciona em baixo nível.
+# <p align = "center"> The New Plane ✈️ (DoS Attack) </p>
+<p align = "center"> The New Plane foi criado com o foco de fazer múltiplos testes de ataques DDoS em sites, de diversas formas. Programado em rust, uma linguagem mais rápida devido a sua ótima forma de gerenciar a memória de forma eficiente, e por se tratar de uma linguagem compilada, funciona em baixo nível. </p>
 
-**OBS: Não utilize essa ferramenta para fins maliciosos**, Criamos apenas para uso educacional.
+**<p align = "center"> OBS: Não utilize essa ferramenta para fins maliciosos, Criamos apenas para uso educacional. </p>**
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@ cargo run
 <br/>
 
 <div align="center">
-<img src="https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d" width="800px" />
+<img src="https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d" width="1000px" />
 </div>
 
 <br/>
