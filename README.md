@@ -1,4 +1,4 @@
-# <p align = "center"> The New Plane ✈️ (DoS Attack) </p>
+# <p align = "center"> ✈️ The New Plane ✈️ </p>
 <p align = "center"> The New Plane foi criado com o foco de fazer múltiplos testes de ataques DDoS em sites, de diversas formas. Programado em rust, uma linguagem mais rápida devido a sua ótima forma de gerenciar a memória de forma eficiente, e por se tratar de uma linguagem compilada, funciona em baixo nível. </p>
 
 **<p align = "center"> OBS: Não utilize essa ferramenta para fins maliciosos, Criamos apenas para uso educacional. </p>**
