@@ -10,8 +10,7 @@
 Git Clone https:/github.com/Dragonit3/The-New-Plane.git
 ```
 
-<br/> 
-<br/> 
+<br/>  
 
 
 ## Linux
@@ -20,22 +19,17 @@ Git Clone https:/github.com/Dragonit3/The-New-Plane.git
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 <br/> 
-<br/> 
 
 ## Windows
 **Para instalar Rust no windows você desse link:** (É necessário ter os pré-requisitos do Visual Studio) https://rustup.rs/ 
 
-
 <br/> 
-<br/> 
-
 
 ## Modo de iniciar
 Podemos iniciar com o comando cargo run, dentro da pasta The-New-Plane (Ele irá compactar e executar)
 ```
 cargo run
 ```
-
 <br/> 
 
 ## Modo de uso
@@ -54,9 +48,10 @@ Como utilizar
 </div>
 
 <br/> 
-<br/> 
 
-![GIF - The New Plane](https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d)
+<div align="center">
+<img src="https://github.com/Dragonit3/The-New-Plane/assets/160602980/3952825f-2be4-4521-8eac-71dce7dfba2d" width="700px" />
+</div>
 
 ## Referências
 https://github.com/snakextdev/simple-ddos-tool 
