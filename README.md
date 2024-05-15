@@ -41,7 +41,7 @@ cargo run
 
 <br/>
 
-**Escolhida a opção, você poderá inserir um IP junto com a porta, Exemplo: 127.0.0.1:80**
+**Escolhida a opção, você poderá inserir um IP junto com a porta.** Exemplo: 127.0.0.1:80
 
 <div align="center">
 <img src="https://github.com/Dragonit3/The-New-Plane/assets/123481273/c3867460-8d98-401f-891a-107461bcba3a" width="300px" />
