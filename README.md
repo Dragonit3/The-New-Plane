@@ -38,7 +38,7 @@ cargo run
 <div align="center">
 <img src="https://github.com/Dragonit3/The-New-Plane/assets/123481273/9a9d8576-2dee-409e-8e00-cf7beab96b3a" width="300px" />
 </div>
-
+<br/>
 **Escolhida a opção, você poderá inserir um IP junto com a porta, dessa forma:**
 
 <div align="center">
