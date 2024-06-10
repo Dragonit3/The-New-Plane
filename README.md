@@ -31,7 +31,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 <br/> 
 
-## Como Instalar ⬆️
+## Como Compilar ⬆️
 Podemos instalar com o comando cargo build, dentro da pasta The-New-Plane (Ele irá compilar)
 ```
 cargo build --release
