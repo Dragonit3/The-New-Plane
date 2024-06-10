@@ -43,7 +43,9 @@ Dentro da pasta The-New-Plane, será criado a pastar target/release, vá para el
 ```
 thenewplane --help
 ```
-
+<div align="center">
+<img src="https://github.com/Dragonit3/The-New-Plane/assets/160602980/114a496c-902c-42a4-ac89-e8ede4bb9c00" width="900px" />
+</div>
 <br/>
 
 ## Referências
