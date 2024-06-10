@@ -7,7 +7,7 @@
 
 ## Foto da ferramenta 📸
 <div align="center">
-<img src="https://github.com/Dragonit3/The-New-Plane/assets/123481273/b56e5e41-a9fb-4fcc-9544-af51c2d3a785" width="800px" />
+<img src="https://github.com/Dragonit3/The-New-Plane/assets/160602980/7d3f72a3-577a-4c89-b874-727219ae64b7" width="800px" />
 </div>
 
 
