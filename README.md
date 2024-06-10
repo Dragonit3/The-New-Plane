@@ -41,7 +41,7 @@ cargo build --release
 ## Como utilizar  🔧
 Dentro da pasta The-New-Plane, será criado a pastar target/release, vá para ela e digite o comando:
 ```
-thenewplane -h
+thenewplane --help
 ```
 
 <br/>
