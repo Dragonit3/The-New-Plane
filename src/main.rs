@@ -29,7 +29,7 @@ async fn main() -> Result<(), io::Error> {
     if opc == "-h" || opc == "--help" || opc == "/?" {
         println!("{}
 THE NEW PLANE 0.3
-Usage: ./thenewplane [Option] [Target]
+Usage: ./thenewplane [options] URL
 
 Options:
     -V, --version     Show the version of the program
