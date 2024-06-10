@@ -68,7 +68,7 @@ used for illegal activities.
 
     if opc == "-g" || opc == "--get" {
 
-        println!("plane taking off");
+        println!("Plane taking off");
  
         loop {
             let copia_arg2 = arg2.trim().to_owned();
